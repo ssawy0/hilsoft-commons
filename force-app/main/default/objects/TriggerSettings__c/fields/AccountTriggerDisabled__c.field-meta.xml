@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CustomField xmlns="http://soap.sforce.com/2006/04/metadata">
+    <fullName>AccountTriggerDisabled__c</fullName>
+    <businessStatus>Active</businessStatus>
+    <defaultValue>false</defaultValue>
+    <description>Flag to indicate if the Trigger Framework should execute triggers</description>
+    <externalId>false</externalId>
+    <label>Account Trigger Disabled</label>
+    <securityClassification>Public</securityClassification>
+    <trackTrending>false</trackTrending>
+    <type>Checkbox</type>
+</CustomField>

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Package xmlns="http://soap.sforce.com/2006/04/metadata">
+  <types>
+    <name>ApexClass</name>
+    <members>AccountTriggerHandlerExample</members>
+    <members>ITriggerHandler</members>
+    <members>TriggerDispatcher</members>
+  </types>
+  <types>
+    <name>CustomField</name>
+    <members>TriggerSettings__c.AccountTriggerDisabled__c</members>
+  </types>
+  <types>
+    <name>CustomObject</name>
+    <members>TriggerSettings__c</members>
+  </types>
+  <types>
+    <name>ApexTrigger</name>
+    <members>AccountTriggerExample</members>
+  </types>
+  <version>47.0</version>
+</Package>
